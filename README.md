@@ -30,6 +30,7 @@ search(buscar): Busca un string en todo el arrayList y devuelve un ArrayList de 
 writeToFile(sobreescribir en el archivo): Guarda el string manipulado en el CSV.
 
 ## Como importar el .jar
+### Link tutorial de youtube: https://youtu.be/wR05GOsXqJU
 
 ### Paso 1: Crear el .jar (Si no lo tienes)
 
