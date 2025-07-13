@@ -10,6 +10,7 @@ headers: Una variable con
 direccion:
 
 ##Metodos
+
 readCSV(LeerCSV): Se encarga de guardar los datos en un arrayList de arreglos de string.
 
 getData(Obtener datos): Entrega todo el arrayList
